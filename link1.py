@@ -19,6 +19,7 @@ def open1(link):
         tags=soup('a')
         if tags!=None:
             for tag in tags:
+                #here we have to add the tags in required websites
                 if re.search('property_title',str(tag)):
                     t=tag.get('href')
                     #print(t)
