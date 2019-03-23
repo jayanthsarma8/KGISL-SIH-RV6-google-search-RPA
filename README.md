@@ -10,3 +10,5 @@ and call seach1.py)
 
 search1.py open the link and at using regular expresion it can find the phone number and mail id from website up to now link1.py
 calling this but we can seach for google results also
+
+sensex.py is the sensex automations file we can get the top companies sensex up and downs
