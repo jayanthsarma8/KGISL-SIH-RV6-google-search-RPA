@@ -40,6 +40,7 @@ def open1(link):
                         s=t
                         open1(s)
                     print('result is uploaded in exel')
+                    #this is main one according to our requirement we have to change the tag and logic to open the websites
 '''           else:
                     for i in tags:
                         if i.get('class')==None:
