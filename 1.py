@@ -4,11 +4,13 @@ from googlesearch import search
 from bs4 import BeautifulSoup
 import search1 as h
 import link1
+#importing required modules
 x=True
 if x==True:
     csv=open('final.csv','w')
     csv.write('hotel name,phone,email,link'+'\n')
     csv.close()
+    #created required output file
     k=open('jayanth.doc','w')
     d=input("enter your required search")
     print('i am seaching for google results')
@@ -16,6 +18,7 @@ if x==True:
     #print(url)
         k.write(url+'\n')
     k.close()
+    #google seach results are saved in doc
     k=open('jayanth.doc','r')
     print("Now i am opening each and every link")
     for i in k:
