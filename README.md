@@ -14,11 +14,10 @@ pip install google (use Command promt to install)
 url: https://pypi.org/project/google  
 
 Running the Source Code:
-Step1 :   open  	Google_search_Module.py and run the programme
 
-According to my team plan we creted 3 programes 
+Step1 :First Run the Google_search_Module.py
 
-Google_search_Module.py(It retrive google results ,save in text files and it creats a csv file to add results)
+Google_search_Module.py(It retrive URL of Top 20 links from  google Pages and it is saved in urlresults.doc files then it will process the reterived each  URL links saved in that file and result saved in Hotel details.CSV files.)
 
 Tag_and_URL_Process.py(it is for opening each and every link which retrived by Google_search_Module.py according to given tags it can open the sublinks 
 and call Regular_Expression.py)
