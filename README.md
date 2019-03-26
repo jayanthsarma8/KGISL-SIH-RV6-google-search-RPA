@@ -14,16 +14,16 @@ pip install google (use Command promt to install)
 url: https://pypi.org/project/google  
 
 Running the Source Code:
-Step1 :   open 1.py and run the programme
+Step1 :   open  	Google_search_Module.py and run the programme
 
 According to my team plan we creted 3 programes 
 
-1.py(It retrive google results ,save in text files and it creats a csv file to add results)
+Google_search_Module.py(It retrive google results ,save in text files and it creats a csv file to add results)
 
-link1.py(it is for opening each and every link which retrived by 1.py according to given tags it can open the sublinks 
-and call seach1.py)
+Tag_and_URL_Process.py(it is for opening each and every link which retrived by Google_search_Module.py according to given tags it can open the sublinks 
+and call Regular_Expression.py)
 
-search1.py open the link and at using regular expresion it can find the phone number and mail id from website up to now link1.py
+Regular_Expression.py open the link and at using regular expresion it can find the phone number and mail id from website up to now Tag_and_URL_Process.py
 calling this but we can seach for google results also
 
 sensex.py is the sensex automations file we can get the top companies sensex up and downs
