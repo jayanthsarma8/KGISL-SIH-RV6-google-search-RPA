@@ -6,8 +6,9 @@ In recent framework, with huge development in the classic information retrieval 
 
 
 Prerequisites
- Python 3.0 IDLE.   
- 
- Installing
- 
-Python Library Flies to be install       Googel search, pip install google (use Command promt to install)   url: https://pypi.org/project/google  
+Python 3.0 IDLE.   
+Installing
+Python Library Flies to be install       
+Googel search 
+pip install google (use Command promt to install)
+url: https://pypi.org/project/google  
