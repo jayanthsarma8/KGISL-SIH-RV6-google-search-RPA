@@ -18,12 +18,18 @@ Running the Source Code:
 Step1 :First Run the Google_search_Module.py
 
 Google_search_Module.py(It retrive URL of Top 20 links from  google Pages and it is saved in urlresults.doc files then it will process the reterived each  URL links saved in that file and result saved in Hotel details.CSV files.)
+Step 2 : 
 
-Tag_and_URL_Process.py(it is for opening each and every link which retrived by Google_search_Module.py according to given tags it can open the sublinks 
-and call Regular_Expression.py)
+Tag_and_URL_Process.py (This file is automatically process the each URL retreived from the previous results and it open the sublink of the each URLS according to the user input)
 
-Regular_Expression.py open the link and at using regular expresion it can find the phone number and mail id from website up to now Tag_and_URL_Process.py
-calling this but we can seach for google results also
+Step 3:
 
-sensex.py is the sensex automations file we can get the top companies sensex up and downs
+Regular_Expression.py ( This file used to fetch the desired output (Such as Name,contact Number,Address, Email ID) by processing the URL links
+
+Sample RPA  APllication 
+
+Sample _RPA _Apllication.py ( This files  will automatically give the Sensex result of Top company by using RPA Techniques) 
+
+
+
 
