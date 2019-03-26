@@ -12,3 +12,8 @@ Python Library Flies to be install
 Googel search 
 pip install google (use Command promt to install)
 url: https://pypi.org/project/google  
+import re
+import urllib.request,urllib.parse,urllib.error
+from googlesearch import search
+from bs4 import BeautifulSoup
+import search1 as h
