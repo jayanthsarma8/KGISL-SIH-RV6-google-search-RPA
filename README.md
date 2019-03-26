@@ -10,7 +10,6 @@ Prerequisites
  
  Installing
  
- Python Library Flies to be install
- Googel search, 
- pip install google (use Command promt to install)
- url: https://pypi.org/project/google  
+Python Library Flies to be install
+Googel search, 
+pip install google (use Command promt to install)   url: https://pypi.org/project/google  
