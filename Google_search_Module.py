@@ -23,5 +23,5 @@ if x==True:
         print('successfully compleated ')
     k.close()
 else:
-    import Sample _RPA _Apllication
+    import Sample_RPA_Apllication
         
